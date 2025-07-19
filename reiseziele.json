@@ -1,0 +1,54 @@
+{
+  "reiseziele": [
+    {
+      "name": "Bali",
+      "land": "Indonesien",
+      "aktivitaeten": ["Surfen", "Tempel besuchen"]
+    },
+    {
+      "name": "Santorini",
+      "land": "Griechenland",
+      "aktivitaeten": ["Sonnenuntergang in Oia", "Wandern"]
+    },
+    {
+      "name": "Tokio",
+      "land": "Japan",
+      "aktivitaeten": ["Sushi essen", "Shibuya Crossing"]
+    },
+    {
+      "name": "New York",
+      "land": "USA",
+      "aktivitaeten": ["Times Square", "Central Park"]
+    },
+    {
+      "name": "Paris",
+      "land": "Frankreich",
+      "aktivitaeten": ["Eiffelturm", "Louvre"]
+    },
+    {
+      "name": "Kapstadt",
+      "land": "Südafrika",
+      "aktivitaeten": ["Tafelberg", "Winelands"]
+    },
+    {
+      "name": "Sydney",
+      "land": "Australien",
+      "aktivitaeten": ["Opera House", "Bondi Beach"]
+    },
+    {
+      "name": "Rio de Janeiro",
+      "land": "Brasilien",
+      "aktivitaeten": ["Copacabana", "Christusstatue"]
+    },
+    {
+      "name": "Rom",
+      "land": "Italien",
+      "aktivitaeten": ["Kolosseum", "Vatikan"]
+    },
+    {
+      "name": "Reykjavik",
+      "land": "Island",
+      "aktivitaeten": ["Nordlichter", "Blaue Lagune"]
+    }
+  ]
+}
